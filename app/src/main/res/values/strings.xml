@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YouOwnMe</string>
+    <string name="title_home">首页</string>
+    <string name="title_receive_gift">收礼</string>
+    <string name="title_give_money">随礼</string>
+    <string name="name">送礼人姓名：</string>
+    <string name="type">类型：</string>
+    <string name="reason">缘由：</string>
+    <string name="button_ok">确定</string>
+    <string name="button_quit">取消</string>
+    <string name="money">金额：</string>
+    <string name="date">日期：</string>
+</resources>
